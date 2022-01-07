@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Better to die standing than to live on knees"
 Use the left arrow to go back!
